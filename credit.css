@@ -1,0 +1,14 @@
+body {
+    background-image: url(eyght.jpg);
+    background-color: rgb(70, 47, 47);
+    background-blend-mode: saturation;
+    background-repeat: repeat;
+    height: 100%;
+    min-height:  100%
+}
+
+/* label {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: space-between;
+} */
